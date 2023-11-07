@@ -2,6 +2,7 @@
 
  MyCoursePal is a dynamic and user-friendly platform that simplifies the presentation and management of educational courses. Built using React and Redux, it empowers educational institutions, online course providers, and instructors to effectively display a comprehensive list of courses. Users can effortlessly navigate the course listing page, explore detailed information about each course, and enroll in their chosen classes through the student dashboard. Leveraging Redux for state management, this application ensures seamless data handling and responsiveness on various devices, providing a versatile and modern solution for the educational sector.
 
+![Screenshot 2023-11-07 203515](https://github.com/happy-jays/MyCoursePal/assets/56588611/63498bb6-bfb6-4c9a-8e98-21513ac88400)
 ## Features
 
 - **Course Listing Page:** 
