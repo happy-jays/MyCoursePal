@@ -1,4 +1,3 @@
-// src/components/CourseListingPage.js
 import React, { useEffect, useState } from 'react';
 import { useSelector, useDispatch } from 'react-redux';
 import { setCourses } from '../actions/courseActions';
@@ -13,15 +12,15 @@ function CourseListingPage() {
   const navigate = useNavigate();
 
   const viewCourseDetails = (courseId) => {
-    // Navigate to the Course Details Screen with the course ID as a URL parameter
+    
     navigate(`/course/${courseId}`);
 };
 const viewDashboard = () => {
-  // Navigate to the Course Details Screen with the course ID as a URL parameter
+ 
   navigate('/dashboard');
 };
   useEffect(() => {
-    // Instead of fetching from an actual API, use the mock data
+   
     dispatch(setCourses(mockData.courses));
   }, [dispatch]);
 

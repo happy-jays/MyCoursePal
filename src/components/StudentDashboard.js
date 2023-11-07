@@ -1,4 +1,3 @@
-// src/components/StudentDashboard.js
 import React from 'react';
 import { useSelector, useDispatch } from 'react-redux';
 import { completeCourse } from '../actions/courseActions';
@@ -12,7 +11,7 @@ function StudentDashboard() {
   const dispatch = useDispatch();
   const navigate = useNavigate();
   const viewcourselist = () => {
-    // Navigate to the Course Details Screen with the course ID as a URL parameter
+   
     navigate('/');
   };
   const markCourseCompleted = (courseId) => {

@@ -1,4 +1,3 @@
-// src/reducers/courseReducer.js
 const initialState = {
   courses: [], // Store the list of courses
   enrolledCourses: [], // Store the courses the user is enrolled in
