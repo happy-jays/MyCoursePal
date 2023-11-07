@@ -64,3 +64,17 @@ To run this Project
       yarn start
   5. Open your browser and navigate to http://localhost:3000
 ```
+## Screenshots
+![Screenshot 2023-11-07 203515](https://github.com/happy-jays/MyCoursePal/assets/56588611/63498bb6-bfb6-4c9a-8e98-21513ac88400)
+
+![Screenshot 2023-11-07 203805](https://github.com/happy-jays/MyCoursePal/assets/56588611/88dce6bb-e108-46a8-bb74-ef5ddeb0287a)
+
+![localhost_3000_ (8)](https://github.com/happy-jays/MyCoursePal/assets/56588611/1b738b56-7a9a-4564-b6e9-1b78c5725695)
+
+![localhost_3000_ (9)](https://github.com/happy-jays/MyCoursePal/assets/56588611/a7c820db-c4c7-4ea6-88c4-4e92c80eaf00)
+
+![localhost_3000_ (10)](https://github.com/happy-jays/MyCoursePal/assets/56588611/37ef358f-74e4-4021-baff-c9016cfbad05)
+
+![localhost_3000_ (11)](https://github.com/happy-jays/MyCoursePal/assets/56588611/07a6be4e-638e-48d2-a71c-da603d7f68e7)
+
+![localhost_3000_ (12)](https://github.com/happy-jays/MyCoursePal/assets/56588611/3fb3986a-abc5-4a26-a301-a8ab63baf939)
